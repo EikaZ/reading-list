@@ -1,1 +1,1 @@
-# My book reading listgit remote -v!
+# My favorite reading lits
