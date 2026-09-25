@@ -1,1 +1,1 @@
-# My book reading listgit commit --amend -m Add books!
+# My book reading listgit remote -v!
